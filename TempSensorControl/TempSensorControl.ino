@@ -30,7 +30,6 @@ void setup(void)
 
 void loop(void) 
 { 
-  
   // call sensors.requestTemperatures() to issue a global temperature 
   // request to all devices on the bus 
 
